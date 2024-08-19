@@ -2,7 +2,7 @@
 
 Flutter é um framework de código aberto desenvolvido pelo Google para a criação de aplicativos bonitos, nativamente compilados e multiplataforma a partir de uma única base de código. Com o Flutter, você pode desenvolver, testar e implantar aplicativos móveis, web, desktop e até mesmo para dispositivos embarcados.
 
-!flutter.png
+![flutter.png](https://th.bing.com/th/id/OIP.fhx_DT8QUlh-qoEBiWfFyAHaE8?rs=1&pid=ImgDetMain){ align=left }
 
 **Grupo de Estudo sobre Flutter**
 

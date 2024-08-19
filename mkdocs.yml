@@ -16,3 +16,6 @@ theme:
 extra_css:
   - css/extra.css
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
