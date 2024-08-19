@@ -1,0 +1,12 @@
+.custom-footer {
+    background-color: #4055B5; /* Cor de fundo azul bebê */
+    text-align: center;
+    padding: 20px;
+    border-top: 8px solid var(--md-default-primary-color); /* Tarja na mesma cor do cabeçalho */
+}
+
+.custom-footer p {
+    margin: 0;
+    color: var(--md-primary-fg-color); /* Cor do texto */
+}
+

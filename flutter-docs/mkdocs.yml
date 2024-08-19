@@ -1,0 +1,18 @@
+site_name: Flutter Documentation
+nav:
+  - Home: index.md
+  - Apresentação: apresentacao.md
+  - Introdução: introducao.md
+  - Aplicações: aplicacoes.md
+  - Vantagens e Desvantagens: vantagens_desvantagens.md
+  - Dispositivos e Tendências: dispositivos_tendencias.md
+  - Arquitetura: arquitetura.md
+  - Uso do Flutter: uso_flutter.md
+  - Conclusão: conclusao.md
+theme:
+  name: material
+  custom_dir: overrides
+  copyright: 'Todos os direitos reservados © 2024 Flutter Documentation'
+extra_css:
+  - css/extra.css
+
