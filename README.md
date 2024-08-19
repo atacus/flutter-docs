@@ -27,7 +27,7 @@ systemctl start mkdocs.service
 systemctl enable mkdocs.service
 
 ```
-# Verificar o estado do serviÇo
+# Verificar o estado do serviço. 
 
 ```
 systemctl status mkdocs.service
