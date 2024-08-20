@@ -1,4 +1,4 @@
-# Dispositivos Suportados e Tendências de Utilização
+# Novidades do Framework Flutter
 
 ## **Novidades IA** 
 - Sei que é um assunto que alguns já devem estar cansados, mas o fato é que a inteligência artificial é o assunto do momento e a Google está investindo pesado na sua nova ferramenta baseada em Large Language Model (LLM).
