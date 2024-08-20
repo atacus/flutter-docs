@@ -9,7 +9,6 @@ nav:
   - Dispositivos e Tendências: dispositivos_tendencias.md
   - Arquitetura: arquitetura.md
   - Uso do Flutter: uso_flutter.md
-  - Apresentação: apresentacao.md
   - Conclusão: conclusao.md
 theme:
   name: material
