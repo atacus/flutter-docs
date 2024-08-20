@@ -1,5 +1,4 @@
-# Vantagens, Desvantagens e Novidades
-
+# Vantagens e Desvantagens do Flutter
 ## Vantagens
 - **Desenvolvimento Rápido**: Hot Reload permite mudanças rápidas no código e visualização instantânea.
 - **Base de Código Única**: Um único código-fonte para múltiplas plataformas.
