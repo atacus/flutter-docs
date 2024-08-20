@@ -3,9 +3,11 @@
 !!! info "Observação" 
     Este exemplo utiliza o **Visual Studio Code** como IDE,  mas se quiser também pode utilizar o Android Studio (basta ter memória RAM suficiente).
 
-## 1. Com o Visual Studio Code aberto, no menu lateral, selecione a aba “extensões”:
+## 1. Acessar Extensões do Visual Studio Code
+- Com o Visual Studio Code aberto, no menu lateral, selecione a aba “extensões”:
 
-## 2. No campo de busca, digite “Flutter”. O primeiro resultado da busca será o plugin oficial. Clique no pequeno botão “Install” verde. O plugin já contém tudo que precisamos para executar e debugar nosso código Dart.
+## 2. Instalar Plugin
+- No campo de busca, digite “Flutter”. O primeiro resultado da busca será o plugin oficial. Clique no pequeno botão “Install” verde. O plugin já contém tudo que precisamos para executar e debugar nosso código Dart.
 
 ![visualstudio.png](https://arquivo.devmedia.com.br/naoexclusivo/CaioRolla/sala-flutter/artigos/009.png){ align=center }
 !!! info "Tudo Pronto" 
