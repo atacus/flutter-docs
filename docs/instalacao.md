@@ -4,11 +4,11 @@
 
 **Hardware:**
 
-| Requisito | Minimo | Recomendado |
-| :--------- | :------: | :-----------: |
-| x86_64 núcleos de CPU | 4 | 8 |
-| Memória RAM | 8GB | 16GB |
-| Espaço em Disco | 11GB | 60GB |
+| Requisito                   | Minimo            | Recomendado       |
+| :-------------------------: | :---------------: | :---------------: |
+| x86_64 núcleos de CPU       | 4                 | 8                 |
+| Memória RAM                 | 8GB               | 16GB              |
+| Espaço em Disco             | 11GB              | 60GB              |
 | Resolução da tela em pixels	| WXGA (1366 x 768)	| FHD (1920 x 1080) |
 
 **Outros Requisitos Necessários**: 
@@ -58,14 +58,14 @@
     All SDK package licenses accepted.
   ```
 
-## 6. Executar Flutter Doctor
+## 6. Executar o Flutter Doctor
 
-Para verificar se os componentes foram instalados corretamente, execute o seguinte comando:
+1. Para verificar se os componentes foram instalados corretamente, execute o seguinte comando:
 ```
   flutter doctor
 ```
 
-A seguinte mensagem será retornada:
+2. A seguinte mensagem será retornada:
 ```
   Running flutter doctor...
   Doctor summary (to see all details, run flutter doctor -v):
