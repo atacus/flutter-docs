@@ -1,8 +1,9 @@
 site_name: Flutter Documentation
 nav:
-  - Home: index.md
-  - Apresentação: apresentacao.md
-  - Introdução: introducao.md
+  - Introdução:
+    - História do Flutter: historia.md
+    - Instalando o Flutter: instalacao.md
+    - Criando seu primeiro app: criando_seu_primeiro_app.md
   - Aplicações: aplicacoes.md
   - Vantagens e Desvantagens: vantagens_desvantagens.md
   - Dispositivos e Tendências: dispositivos_tendencias.md
@@ -16,3 +17,9 @@ theme:
 extra_css:
   - css/extra.css
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
