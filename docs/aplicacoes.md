@@ -6,9 +6,9 @@ Flutter é um framework de desenvolvimento de aplicativos criado pelo Google. El
 
 | Plataforma      | Função                          |
 | :---------- | :----------------------------------- |
-| `Mobile`       | :material-check:     Desenvolvimento de aplicativos nativos para Android e iOS.  |
-| `Web`       | :material-check:      Criação de aplicações web progressivas (PWAs) e sites. |
-| `Desktop`    | :material-check:      Desenvolvimento para Windows, macOS e Linux. |
+| `Mobile`       | Desenvolvimento de aplicativos nativos para Android e iOS.  |
+| `Web`       | Criação de aplicações web progressivas (PWAs) e sites. |
+| `Desktop`    | Desenvolvimento para Windows, macOS e Linux. |
 
 ## Algumas Aplicações desenvolvidas em Flutter:
 
