@@ -17,7 +17,7 @@ Finalmente podemos criar nosso primeiro aplicativo em Flutter!
   ```
     flutter create meu_primeiro_app
   ```
-!!! info inline end "Lorem ipsum"
+!!! info inline end "Nome do Projeto"
 
     O parâmetro meu_primeiro_app é o nome da nossa aplicação. Sinta-se livre para colocar o nome que quiser.
 
