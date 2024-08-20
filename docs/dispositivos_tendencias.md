@@ -1,16 +1,17 @@
 # Dispositivos Suportados e Tendências de Utilização
 
-## Dispositivos Suportados
-- **Móveis**: Android, iOS
-- **Web**: Chrome, Firefox, Edge, Safari
-- **Desktop**: Windows, macOS, Linux
+| Dispositivos      | Função                          |
+| :---------- | :----------------------------------- |
+| `Móveis`       | Android e iOS.  |
+| `Web`       | Chrome, Firefox, Edge, Safari |
+| `Desktop`    | Windows, macOS, Linux |
 
-## Tendências de Utilização
+## **Tendências de Utilização**
 - **Empresas**: Adotando Flutter para reduzir custos e tempo de desenvolvimento.
 - **Startups**: Preferindo Flutter para lançar produtos em múltiplas plataformas rapidamente.
 - **Desenvolvedores Independentes**: Utilizando Flutter para prototipagem rápida e desenvolvimento de MVPs.
 
-## Novidades 
+## **Novidades IA** 
 - Sei que é um assunto que alguns já devem estar cansados, mas o fato é que a inteligência artificial é o assunto do momento e a Google está investindo pesado na sua nova ferramenta baseada em Large Language Model (LLM).
 - O Flutter não poderia ficar pra trás e agora com o Google AI Dart SDK é possível integrar facilmente seus aplicativos Flutter com qualquer um dos modelos de IA generativa da Google, incluindo o Gemini. 
 - Para adicionar em seu projeto basta executar
@@ -25,7 +26,7 @@
 - Para maiores informações acesse:
 [Flutter AI]( https://flutter.dev/ai){ .md-button .md-button--primary }
 
-## Games 
+## **Games** 
 - O Flutter é ótimo para o desenvolvimento de aplicativos, mas a equipe do Flutter vem investindo muito também no desenvolvimento de jogos.
 
 - A arquitetura do Flutter, embora robusta e flexível, permite a criação de camadas com acesso a níveis inferiores. Essa flexibilidade possibilita o desenvolvimento de uma engine que facilita a interoperabilidade entre diferentes componentes e sistemas.
