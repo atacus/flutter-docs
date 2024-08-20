@@ -7,7 +7,7 @@ nav:
   - Widgets: widgets.md
   - Aplicações: aplicacoes.md
   - Vantagens e Desvantagens: vantagens_desvantagens.md
-  - Dispositivos e Tendências: dispositivos_tendencias.md
+  - Dispositivos e Novidades: dispositivos_tendencias.md
   - Arquitetura: arquitetura.md
   - Uso do Flutter: uso_flutter.md
   - Conclusão: conclusao.md
@@ -27,3 +27,4 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - tables
