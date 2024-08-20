@@ -3,7 +3,8 @@ nav:
   - Introdução:
     - História do Flutter: historia.md
     - Instalando o Flutter: instalacao.md
-    - Criando seu primeiro app: criando_seu_primeiro_app.md
+    - Iniciando um App Flutter: iniciando_um_app_flutter.md
+  - Widgets: widgets.md
   - Aplicações: aplicacoes.md
   - Vantagens e Desvantagens: vantagens_desvantagens.md
   - Dispositivos e Novidades: dispositivos_tendencias.md
@@ -23,4 +24,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - tables
