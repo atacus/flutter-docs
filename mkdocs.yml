@@ -5,11 +5,10 @@ nav:
     - Instalando o Flutter: instalacao.md
     - Iniciando um App Flutter: iniciando_um_app_flutter.md
   - Widgets: widgets.md
+  - Arquitetura: arquitetura.md
   - Aplicações: aplicacoes.md
   - Vantagens e Desvantagens: vantagens_desvantagens.md
   - Novidades: novidades.md
-  - Arquitetura: arquitetura.md
-  - Uso do Flutter: uso_flutter.md
   - Conclusão: conclusao.md
 theme:
   name: material
