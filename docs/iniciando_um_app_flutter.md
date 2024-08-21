@@ -98,4 +98,4 @@ void main(){
 }
 ```
 
-Aqui temos, além da função `main`, a classe `MyApp`, que é nosso **widget** inicial, onde a partir dele, temos nosso ponto de entrada para o resto da aplicação. No exemplo acima, o atributo `home` recebe um objeto `InitialPage()`, que é um widget com a implementação da página inicial, que por sua vez terá a chamada de diversos outros widgets. Veja mais sobre widgets [aqui](/widgets).
+Aqui temos, além da função `main`, a classe `MyApp`, que é nosso **widget** inicial, onde a partir dele, temos nosso ponto de entrada para o resto da aplicação. No exemplo acima, o atributo `home` recebe um objeto `InitialPage()`, que é um widget com a implementação da página inicial, que por sua vez terá a chamada de diversos outros widgets. Veja mais sobre widgets [aqui](widgets.md).

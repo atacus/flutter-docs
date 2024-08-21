@@ -1,5 +1,6 @@
-site_name: Flutter Documentation
+site_name: Documentação Flutter
 nav:
+  - Inicio: index.md
   - Introdução:
     - História do Flutter: historia.md
     - Instalando o Flutter: instalacao.md
