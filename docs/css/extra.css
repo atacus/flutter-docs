@@ -7,6 +7,6 @@
 
 .custom-footer p {
     margin: 0;
-    color: var(--md-primary-fg-color); /* Cor do texto */
+    font-size: small;
+    color: white; /* Cor do texto */
 }
-

@@ -22,7 +22,8 @@
 
 - E foi exatamente isso que o pessoal do Flame que é engine para jogos 2D que utiliza Dart e Flutter mantida por uma comunidade open-source, disponibilizando uma API de desenvolvimento alto nível para jogos
 
-!!! info "Olha o Exemplo de um Game criado no Flutter" 
-
-![flutterGames.png](https://miro.medium.com/v2/resize:fit:640/format:webp/1*iUdcGYe-0W6Z1OH3rE5hvQ.gif){ align=center }
+???+ tip "Olha o Exemplo de um Game criado no Flutter!" 
+    <figure markdown="span">
+      ![flutterGames.png](https://miro.medium.com/v2/resize:fit:640/format:webp/1*iUdcGYe-0W6Z1OH3rE5hvQ.gif)
+    </figure>
 

@@ -16,7 +16,7 @@
     !!! success "Tudo Pronto" 
         Finalmente podemos criar nosso primeiro aplicativo em Flutter!
 
-    ## Iniciando um App Flutter
+    ## Iniciando um Novo App
 
     1. No terminal do Windows, navegue até o diretório onde deseja iniciar o seu projeto e execute o seguinte comando:   
     ``` { .powershell .copy }
@@ -60,11 +60,42 @@
 
 Se tudo ocorreu bem, você terá um aplicativo inicial semelhante a esse:
 
-![Aplicativo inicial Flutter](./assets/app_demo.png){ width=500 }
+<figure markdown="span">
+  ![Aplicativo inicial Flutter](./assets/app_demo.png){ width=500 }
+</figure>
 
 E uma estrutura de diretórios assim:
 
-![Estrutura de pastas de um app Flutter](./assets/lista_de_diretorios.png)
+<figure markdown="span">
+  ![Estrutura de pastas de um app Flutter](./assets/lista_de_diretorios.png)
+</figure>
 
 !!! tip "Dica"
     A maior parte dos arquivos do seu aplicativo se encontram no diretório `lib` e provavelmente é la que você passará a maior parte do tempo.
+
+
+## Código Base
+
+Agora, para iniciar o desenvolvimento de um app, precisamos criar um arquivo `main.dart` no diretório `lib` e adicionar uma função `main`, como no exemplo a seguir:
+
+``` { .dart .copy }
+import "package:flutter/material.dart";
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: "Meu Primeiro App", 
+      home: InitialPage(),
+    );
+  }
+}
+
+void main(){
+  runApp(const MyApp());
+}
+```
+
+Aqui temos, além da função `main`, a classe `MyApp`, que é nosso **widget** inicial, onde a partir dele, temos nosso ponto de entrada para o resto da aplicação. No exemplo acima, o atributo `home` recebe um objeto `InitialPage()`, que é um widget com a implementação da página inicial, que por sua vez terá a chamada de diversos outros widgets. Veja mais sobre widgets [aqui](widgets.md).

@@ -13,7 +13,7 @@ Compreender os Requisitos do Aplicativo: É essencial compreender os requisitos 
 Uma outra consideração crucial é avaliar o nível de complexidade do seu aplicativo. É importante escolher uma arquitetura capaz de lidar com essa complexidade sem comprometer o desempenho ou a facilidade de manutenção.
 
 !!! info "Reusabilidade de Código e Manutenibilidade" 
-Esses são fatores essenciais a serem considerados, pois proporcionam facilidade nas atualizações futuras do seu aplicativo.
+    Esses são fatores essenciais a serem considerados, pois proporcionam facilidade nas atualizações futuras do seu aplicativo.
 
 ## Escalabilidade vs. Simplicidade 
 
